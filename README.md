@@ -12,7 +12,16 @@ This project performs a **statistical analysis** of Premier League teams and for
 
 <img width="1055" height="612" alt="Premier League Team Charts" src="https://github.com/user-attachments/assets/1489329f-39a1-48d2-af12-5409db299342" />
 
-Visual analysis of Premier League team statistics including goals scored, xG, yellow cards and fouls, presented through Excel charts.
+Visual analysis of **Goals vs xG** for all Premier League clubs, presented through an Excel scatter plot with club badges.
+
+**📊 Key Conclusions:**
+
+- 🏆 **Manchester City** stand out as clear outliers — highest goals (94) and highest xG (79), confirming their dominance both in chance creation and finishing
+- 🎯 **Arsenal** had a high xG (72) but scored fewer goals (88 vs City's 94), suggesting slightly less clinical finishing despite creating similar quality chances
+- ⚽ **Manchester United** show an interesting pattern — high xG (67.7) but only 58 goals, indicating they **underperformed** their expected goals significantly
+- 📈 **Tottenham** had 57 xG but scored 70 goals — a case of **overperforming** their xG, likely due to individual brilliance (Harry Kane)
+- 📉 **Chelsea and Everton** sit in the lower half despite being big clubs, reflecting their poor attacking seasons
+- 🐺 **Wolves** were the least threatening team — lowest goals and lowest xG, showing a very defensive and passive style
 
 ---
 
@@ -35,7 +44,7 @@ The workbook contains **3 sheets:**
 - 📐 **Z-score normalization** to standardize player metrics
 - 📊 **T-score conversion** for easier comparison across different scales
 - 🎯 **Forward Profile Comparison Dashboard**
-- 📈 **Team performance charts** (goals, xG, yellow cards, fouls)
+- 📈 **Team performance charts** (goals vs xG)
 - ⚽ Covers key metrics: minutes played, goals, xG, shots, shots on target
 
 ---
@@ -50,8 +59,6 @@ The workbook contains **3 sheets:**
 | xG | Expected goals |
 | Shots | Total shots |
 | Shots on Target | Shots on target |
-| CrdY | Yellow cards |
-| Fls | Fouls committed |
 
 ---
 
@@ -69,7 +76,7 @@ The workbook contains **3 sheets:**
 This analysis helps to:
 - Compare forwards on a **level playing field** regardless of minutes played
 - Identify **elite performers** vs average players statistically
-- Analyze **team tendencies** (fouls, cards, attacking efficiency)
+- Analyze **team tendencies** in chance creation and finishing efficiency
 - Support **scouting decisions** with objective data
 
 ---
