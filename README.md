@@ -7,7 +7,16 @@ This project performs a **statistical analysis** of Premier League teams and for
 
 ## 📁 Files
 
-### 1️⃣ Forward Statistical Analysis & Dashboard
+### 1️⃣ Team Charts & Database
+📥 [**Download — Microsoft Excel (charts and graphs) database.xlsx**](https://github.com/user-attachments/files/26937879/Microsoft.Excel.charts.and.graphs._database.xlsx)
+
+<img width="1055" height="612" alt="Premier League Team Charts" src="https://github.com/user-attachments/assets/1489329f-39a1-48d2-af12-5409db299342" />
+
+Visual analysis of Premier League team statistics including goals scored, xG, yellow cards and fouls, presented through Excel charts.
+
+---
+
+### 2️⃣ Forward Statistical Analysis & Dashboard
 📥 [**Download — Dashboard João Almeida.xlsx**](https://github.com/user-attachments/files/26933147/Dashboard.Joao.Almeida.xlsx)
 
 <img width="867" height="682" alt="Premier League Forward Analysis Dashboard" src="https://github.com/user-attachments/assets/098a9a4f-2e54-4c00-9ced-0672181df874" />
@@ -18,15 +27,6 @@ The workbook contains **3 sheets:**
 - **Folha1** — Raw Premier League forward statistics
 - **Folha2** — Z-score and T-score statistical normalization
 - **Dashboard Final** — Forward profile comparison dashboard
-
----
-
-### 2️⃣ Team Charts & Database
-📥 [**Download — Microsoft Excel (charts and graphs) database.xlsx**](https://github.com/user-attachments/files/26937879/Microsoft.Excel.charts.and.graphs._database.xlsx)
-
-<img width="1055" height="612" alt="Premier League Team Charts" src="https://github.com/user-attachments/assets/1489329f-39a1-48d2-af12-5409db299342" />
-
-Visual analysis of Premier League team statistics including goals scored, xG, yellow cards and fouls, presented through Excel charts.
 
 ---
 
